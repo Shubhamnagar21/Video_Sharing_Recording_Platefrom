@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://Shubhamnagar21-s-workspace-s33sfi.ap-southeast-2.xata.sh/db/snapcast",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}
